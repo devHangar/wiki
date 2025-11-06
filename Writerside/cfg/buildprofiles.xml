@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <primary-color>purple</primary-color>
+        <download-title>devHangar project</download-title>
+        <download-page>https://github.com/devHangar</download-page>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
+
+    <footer>
+        <link href="https://devhangar.io">devhangar.io</link>
+        <link href="https://github.com/devHangar">devHangar project</link>
+        <copyright>2025 devhangar.io</copyright>
+    </footer>
+</buildprofiles>
