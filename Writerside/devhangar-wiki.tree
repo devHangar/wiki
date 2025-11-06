@@ -4,10 +4,10 @@
 
 <instance-profile id="devhangar-wiki"
                  name="Help Instance"
-                 start-page="devHangar.md">
+                 start-page="the_projekt.md">
 
     <toc-element toc-title="devHangar">
-        <toc-element topic="devHangar.md">
+        <toc-element topic="the_projekt.md">
         </toc-element>
         <toc-element topic="contibuting.md"/>
     </toc-element>
