@@ -14,4 +14,9 @@
     <toc-element toc-title="guidelines">
     </toc-element>
     <toc-element toc-title="deployment"/>
+    <toc-element toc-title="service documentations">
+        <toc-element topic="Project-Plan.md"/>
+        <toc-element topic="hangarApi.md"/>
+        <toc-element topic="hangarGateway.md"/>
+    </toc-element>
 </instance-profile>
