@@ -1,3 +1,3 @@
-# the projekt
+# contibuting
 
 Start typing here...
