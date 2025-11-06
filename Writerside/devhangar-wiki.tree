@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="devhangar-wiki"
-                 name="Help Instance"
+                 name="devHangar Wiki"
                  start-page="the_projekt.md">
 
     <toc-element toc-title="devHangar">
