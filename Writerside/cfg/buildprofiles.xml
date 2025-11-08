@@ -4,15 +4,18 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <primary-color>purple</primary-color>
-        <download-title>devHangar project</download-title>
-        <download-page>https://github.com/devHangar</download-page>
-        <showDownloadButton>true</showDownloadButton>
+        <color-preset>simple</color-preset>
+        <primary-color>#1f5468</primary-color>
+        <header-logo>logo.png</header-logo>
+        <custom-favicons>logo.png</custom-favicons>
+        <link-color>#1f5468</link-color>
+        <custom-css>custom.css</custom-css>
     </variables>
 
     <footer>
         <link href="https://devhangar.io">devhangar.io</link>
         <link href="https://github.com/devHangar">devHangar project</link>
+        <social type="github" href="https://github.com/devHangar"></social>
         <copyright>2025 devhangar.io</copyright>
     </footer>
 </buildprofiles>

@@ -6,24 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="19b09289">
-        <description>Created after removal of "general contribution guidelines" from Help Instance</description>
-        <accepts>general-contribution-guidelines.html</accepts>
-    </rule>
-    <rule id="25f466a8">
-        <description>Created after removal of "api guidelines" from Help Instance</description>
-        <accepts>api-guide-lines.html</accepts>
-    </rule>
-    <rule id="1e243df8">
-        <description>Created after removal of "wiki guidelines" from Help Instance</description>
-        <accepts>wiki-guide-lines.html</accepts>
-    </rule>
-    <rule id="67846f8">
-        <description>Created after removal of "general commit guidelines" from Help Instance</description>
-        <accepts>general-commit-guidelines.html</accepts>
-    </rule>
-    <rule id="19e7ed2">
-        <description>Created after removal of "general project guidelines" from Help Instance</description>
-        <accepts>general-project-guidelines.html</accepts>
-    </rule>
 </rules>

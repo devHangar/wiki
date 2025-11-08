@@ -1,3 +1,0 @@
-# hangarGateway
-
-Start typing here...

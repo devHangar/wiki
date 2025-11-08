@@ -1,0 +1,48 @@
+:root {
+    --app-header: transparent;
+    --app-footer: transparent;
+}
+
+.app__header {
+    border-bottom: 1px var(--wh-color-border-default) solid;
+}
+
+.wh-header__product-logo--custom {
+    border-radius: 5px;
+    scale: 70%;
+}
+
+/* Header light theme fix */
+/* Search and Theme Switcher */
+.theme-light ._modeClear_joawza_434._dark_joawza_62 {
+    color: var(--wh-color-black);
+}
+
+.theme-light ._modeClear_joawza_434._dark_joawza_62:hover {
+    color: var(--wh-color-primary);
+}
+
+/* product name */
+.theme-light .wh-header__product-name {
+    color: var(--wh-color-black);
+}
+
+/* Footer light theme fix */
+/* footer links */
+.theme-light .footer {
+    --app-link-color-dark: var(--wh-color-black);
+    --app-link-border-color-dark: var(--wh-color-black);
+    color: var(--wh-color-black);
+}
+
+.theme-light .rs-text-3_theme_dark {
+    color: var(--wh-color-black);
+}
+
+.theme-light .rs-text-3_theme_dark.rs-text-3_hardness_hard {
+    color: var(--wh-color-black);
+}
+
+.theme-light .footer__wrapper [data-test="footer-socials"] a svg path {
+    fill: var(--wh-color-black);
+}

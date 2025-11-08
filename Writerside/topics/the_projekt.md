@@ -1,3 +1,0 @@
-# the projekt
-
-Start typing here...
