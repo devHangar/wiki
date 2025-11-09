@@ -58,7 +58,14 @@
     margin: 0px 5px 0px 5px ;
 }
 
+.toc-item--selected {
+    background: linear-gradient(to right, var(--wh-color-primary), transparent) !important;
+    background-origin: border-box !important;
+    background-clip: border-box !important;
+    border: 1px var(--wh-color-primary) solid;
+}
+
 ul.toc li a:hover, ul.toc li div:hover {
     border-radius: 5px;
-    margin: 0px 5px 0px 5px ;
+    margin: 0px 5px 0px 5px;
 }
