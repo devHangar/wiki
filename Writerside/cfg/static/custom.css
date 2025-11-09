@@ -7,6 +7,11 @@
     border-bottom: 1px var(--wh-color-border-default) solid;
 }
 
+.app__footer {
+    border-top: 1px var(--wh-color-border-default) solid;
+}
+
+
 .wh-header__product-logo--custom {
     border-radius: 5px;
     scale: 70%;
@@ -45,4 +50,15 @@
 
 .theme-light .footer__wrapper [data-test="footer-socials"] a svg path {
     fill: var(--wh-color-black);
+}
+
+/* Nav bar */
+.toc-item--selected, .toc-item--highlighted {
+    border-radius: 5px;
+    margin: 0px 5px 0px 5px ;
+}
+
+ul.toc li a:hover, ul.toc li div:hover {
+    border-radius: 5px;
+    margin: 0px 5px 0px 5px ;
 }
