@@ -15,7 +15,7 @@
     <footer>
         <link href="https://devhangar.io">devhangar.io</link>
         <link href="https://github.com/devHangar">devHangar project</link>
-        <social type="github" href="https://github.com/devHangar"></social>
+        <social type="github" href="https://github.com/devHangar">to Github project page</social>
         <copyright>2025 devhangar.io</copyright>
     </footer>
 </buildprofiles>
