@@ -59,7 +59,7 @@
 }
 
 .toc-item--selected {
-    background: linear-gradient(to right, var(--wh-color-primary), transparent) !important;
+    background: linear-gradient(to right, color-mix(in srgb, var(--wh-color-primary) 50%, transparent), transparent) !important;
     background-origin: border-box !important;
     background-clip: border-box !important;
     border: 1px var(--wh-color-primary) solid;
