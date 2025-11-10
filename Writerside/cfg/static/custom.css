@@ -3,6 +3,15 @@
     --app-footer: transparent;
 }
 
+:root.theme-light {
+    --app-footer-divider: var(--wh-color-black) !important;
+}
+
+/* Remove border */
+* {
+    border-radius: 0px !important;
+}
+
 .app__header {
     border-bottom: 1px var(--wh-color-border-default) solid;
 }
@@ -37,7 +46,14 @@
 .theme-light .footer {
     --app-link-color-dark: var(--wh-color-black);
     --app-link-border-color-dark: var(--wh-color-black);
-    color: var(--wh-color-black);
+}
+
+.theme-light .footer__powered, .theme-light .footer__powered a {
+    color: #6a6a6c !important;
+}
+
+.theme-light .footer__copyright {
+    color: #6a6a6c !important;
 }
 
 .theme-light .rs-text-3_theme_dark {
