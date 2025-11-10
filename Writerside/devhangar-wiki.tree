@@ -7,7 +7,9 @@
                  start-page="devHangar.md">
 
     <toc-element topic="devHangar.md"/>
-    <toc-element topic="Deploy.md"/>
+    <toc-element topic="Getting_started.md"/>
+    <toc-element topic="Guidelines.md"/>
+    <toc-element topic="Tutorials.md"/>
     <toc-element toc-title="Documentation">
         <toc-element topic="Services.md"/>
     </toc-element>

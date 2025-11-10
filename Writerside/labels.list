@@ -6,7 +6,9 @@
         This is an example label
     </primary-label>
 
-    <primary-label id="topic" short-name="t" name=""></primary-label>
+    <primary-label id="topic" short-name="" name=""></primary-label>
+    
+    <primary-label id="guideline" short-name="" name=""></primary-label>
 
 </labels>
 
